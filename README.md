@@ -1,13 +1,18 @@
 ## Jorge Rodrigo
 
-<sub>Selected personal projects</sub>
+<sub>Personal projects & experiments</sub>
 
 ---
 
-#### 01 / Health & Performance
+### Selected work
 
-A personal AI system connecting health and training data, contextual memory and automation.
+<img src="./assets/soma-light.svg#gh-light-mode-only" alt="Soma — Hevy and Strava connected to Telegram through Supabase" width="100%">
+<img src="./assets/soma-dark.svg#gh-dark-mode-only" alt="Soma — Hevy and Strava connected to Telegram through Supabase" width="100%">
 
-`TypeScript` · `OpenAI` · `Supabase` · `Telegram`
+**Soma** · Personal health & performance assistant
 
-<sub>Private project · In progress</sub>
+Brings together workouts from **Hevy** and activities from **Strava**, keeps contextual memory and scheduled checks in **Supabase**, and delivers updates and recommendations through **Telegram**.
+
+`TypeScript` &nbsp;·&nbsp; `Supabase` &nbsp;·&nbsp; `Telegram Bot API`
+
+<sub>Independent project · Private repository · In development</sub>
