@@ -1,16 +1,18 @@
-## Hi there 👋
+<img src="./assets/header-light.svg#gh-light-mode-only" alt="Jorge Rodrigo — Aerospace Engineer" width="100%">
+<img src="./assets/header-dark.svg#gh-dark-mode-only" alt="Jorge Rodrigo — Aerospace Engineer" width="100%">
 
-<!--
-**rodrigoalvarezjorge-cloud/rodrigoalvarezjorge-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+Aviation &nbsp;·&nbsp; Engineering &nbsp;·&nbsp; Personal projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 01 / PERSONAL PROJECTS
+
+**Personal Health Assistant**  
+A personal AI assistant for health data, memory and automation.  
+`OpenAI` &nbsp; `Supabase` &nbsp; `Telegram`
+
+<br>
+
+<sub>Spain / Belgium</sub>
