@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="174" viewBox="0 0 940 174" role="img" aria-labelledby="title desc">
+<title id="title">Soma — Personal health and performance</title>
+<desc id="desc">A minimal technical diagram with Hevy and Strava data flowing through Soma to Telegram, supported by Supabase.</desc>
+<rect x="1" y="1" width="938" height="172" rx="12" fill="#ffffff" stroke="#dce5eb" stroke-width="1.5"/>
+<g stroke="#e4edf3" stroke-width=".8" opacity=".5">
+<path d="M26 48H914M26 126H914"/>
+<path d="M420 20V154M440 20V154M460 20V154"/>
+</g>
+<circle cx="37" cy="33" r="4" fill="#168e9e"/>
+<text x="51" y="38" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="600" letter-spacing="2.3" fill="#5f7180">PROJECT / 01</text>
+<text x="34" y="104" font-family="Arial,Helvetica,sans-serif" font-size="56" font-weight="650" letter-spacing="-1.5" fill="#17232d">Soma</text>
+<text x="36" y="133" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="1.6" fill="#5f7180">HEALTH · PERFORMANCE · DATA</text>
+<g stroke="#92a9b4" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M613 62H659L696 87H748" />
+<path d="M613 113H659L696 87"/>
+<path d="M748 87H787"/>
+<path d="M714 135V99" stroke-dasharray="3 5"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="600">
+<rect x="513" y="45" width="100" height="35" rx="7" fill="#f5fafc" stroke="#dce5eb"/>
+<text x="563" y="67" text-anchor="middle" fill="#17232d">HEVY</text>
+<rect x="513" y="96" width="100" height="35" rx="7" fill="#f5fafc" stroke="#dce5eb"/>
+<text x="563" y="118" text-anchor="middle" fill="#17232d">STRAVA</text>
+<circle cx="714" cy="87" r="19" fill="#eef7fa" stroke="#168e9e" stroke-width="1.7"/>
+<path d="M706 87l5 5 11-13" stroke="#168e9e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<rect x="786" y="69" width="126" height="36" rx="7" fill="#f5fafc" stroke="#dce5eb"/>
+<text x="849" y="92" text-anchor="middle" fill="#17232d">TELEGRAM</text>
+<rect x="657" y="135" width="115" height="26" rx="6" fill="#ffffff" stroke="#dce5eb"/>
+<text x="714" y="152" text-anchor="middle" font-size="11" letter-spacing="1" fill="#5f7180">SUPABASE</text>
+</g>
+</svg>
