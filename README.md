@@ -1,18 +1,13 @@
-<img src="./assets/header-light.svg#gh-light-mode-only" alt="Jorge Rodrigo — Aerospace Engineer" width="100%">
-<img src="./assets/header-dark.svg#gh-dark-mode-only" alt="Jorge Rodrigo — Aerospace Engineer" width="100%">
+## Jorge Rodrigo
 
-<br>
-
-Aviation &nbsp;·&nbsp; Engineering &nbsp;·&nbsp; Personal projects
+<sub>Selected personal projects</sub>
 
 ---
 
-#### 01 / PERSONAL PROJECTS
+#### 01 / Health & Performance
 
-**Personal Health Assistant**  
-A personal AI assistant for health data, memory and automation.  
-`OpenAI` &nbsp; `Supabase` &nbsp; `Telegram`
+A personal AI system connecting health and training data, contextual memory and automation.
 
-<br>
+`TypeScript` · `OpenAI` · `Supabase` · `Telegram`
 
-<sub>Spain / Belgium</sub>
+<sub>Private project · In progress</sub>
