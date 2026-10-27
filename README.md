@@ -1,18 +1,17 @@
-## Jorge Rodrigo
 
-<sub>Personal projects & experiments</sub>
+
+<sub>some stuff</sub>
 
 ---
 
-### Selected work
 
 <img src="./assets/soma-light.svg#gh-light-mode-only" alt="Soma — Hevy and Strava connected to Telegram through Supabase" width="100%">
 <img src="./assets/soma-dark.svg#gh-dark-mode-only" alt="Soma — Hevy and Strava connected to Telegram through Supabase" width="100%">
 
-**Soma** · Personal health & performance assistant
+**Soma**
 
-Brings together workouts from **Hevy** and activities from **Strava**, keeps contextual memory and scheduled checks in **Supabase**, and delivers updates and recommendations through **Telegram**.
+Brings together workouts from Hevy, Strava and more. Keeps contextual memory and scheduled checks in Supabase, delivers updates and recommendations through chat.
 
-`TypeScript` &nbsp;·&nbsp; `Supabase` &nbsp;·&nbsp; `Telegram Bot API`
+`TypeScript` &nbsp;·&nbsp; `Supabase` &nbsp;·&nbsp; `Chat`
 
 <sub>Independent project · Private repository · In development</sub>
