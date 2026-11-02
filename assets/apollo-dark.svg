@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="238" viewBox="0 0 1000 238" role="img" aria-labelledby="title desc">
+<title id="title">Apollo — Personal health and performance</title>
+<desc id="desc">Apollo integrates Hevy and Strava now, with WHOOP, Apple Health and Fitbit planned. Supabase stores health context, OpenAI analyzes it, and Telegram delivers the conversation.</desc>
+<rect x="1" y="1" width="998" height="236" rx="13" fill="#0d1117" stroke="#303b47" stroke-width="1.5"/>
+<g fill="none" stroke="#263441" stroke-width=".9" opacity=".72">
+<path d="M25 46H975M25 211H975M320 22V216"/>
+<path d="M335 25H967M335 212H967" stroke-dasharray="2 8" opacity=".65"/>
+</g>
+<circle cx="34" cy="28" r="4" fill="#56c9d7"/>
+<text x="49" y="32" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="600" letter-spacing="2" fill="#9baaba">PERSONAL PROJECT / 01</text>
+<text x="32" y="111" font-family="Arial,Helvetica,sans-serif" font-size="57" font-weight="650" letter-spacing="-2" fill="#f0f6fc">Apollo</text>
+<text x="34" y="138" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1.35" fill="#9baaba">HEALTH · PERFORMANCE · DATA</text>
+<path d="M34 181H118" stroke="#56c9d7" stroke-width="2"/>
+<text x="34" y="198" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.4" fill="#9baaba">PRIVATE · IN DEVELOPMENT</text>
+<text x="352" y="31" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.5" font-weight="600" fill="#9baaba">DATA SOURCES</text>
+<text x="352" y="49" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="1.4" fill="#56c9d7">CONNECTED</text>
+<rect x="352" y="56" width="111" height="34" rx="7" fill="#14212c" stroke="#405260" stroke-width="1.1"/>
+<text x="407.5" y="77" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="600" letter-spacing=".5" fill="#f0f6fc">HEVY</text>
+<rect x="473" y="56" width="119" height="34" rx="7" fill="#14212c" stroke="#405260" stroke-width="1.1"/>
+<text x="532.5" y="77" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="600" letter-spacing=".5" fill="#f0f6fc">STRAVA</text>
+<text x="352" y="129" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="1.4" fill="#9baaba">PLANNED</text>
+<rect x="352" y="137" width="111" height="32" rx="7" fill="#111a24" stroke="#596c7b" stroke-width="1.1" stroke-dasharray="4 3"/>
+<text x="407.5" y="157" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="600" letter-spacing=".5" fill="#afbec9">WHOOP</text>
+<rect x="473" y="137" width="119" height="32" rx="7" fill="#111a24" stroke="#596c7b" stroke-width="1.1" stroke-dasharray="4 3"/>
+<text x="532.5" y="157" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="600" letter-spacing=".5" fill="#afbec9">APPLE HEALTH</text>
+<rect x="352" y="176" width="111" height="32" rx="7" fill="#111a24" stroke="#596c7b" stroke-width="1.1" stroke-dasharray="4 3"/>
+<text x="407.5" y="196" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="600" letter-spacing=".5" fill="#afbec9">FITBIT</text>
+<rect x="473" y="176" width="119" height="32" rx="7" fill="#111a24" stroke="#596c7b" stroke-width="1.1" stroke-dasharray="4 3"/>
+<text x="532.5" y="196" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="600" letter-spacing=".5" fill="#afbec9">OTHER APPS</text>
+<g fill="none" stroke="#638393" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round">
+<path d="M463 73H607M592 73H607M607 73V119H629"/>
+<path d="M592 153H615V119H629M592 192H615" stroke-dasharray="4 5" opacity=".76"/>
+<path d="M631 116l5 3-5 3" stroke="#56c9d7"/>
+<path d="M752 119H771M765 115l6 4-6 4" stroke="#56c9d7"/>
+<path d="M862 119H881M875 115l6 4-6 4" stroke="#56c9d7"/>
+</g>
+<rect x="638" y="96" width="114" height="47" rx="7" fill="#14212c" stroke="#405260" stroke-width="1.2"/>
+<text x="695" y="116" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="650" text-anchor="middle" fill="#f0f6fc">SUPABASE</text>
+<text x="695" y="130" font-family="Arial,Helvetica,sans-serif" font-size="9" text-anchor="middle" fill="#9baaba">DATA + MEMORY</text>
+<rect x="772" y="96" width="90" height="47" rx="7" fill="#14212c" stroke="#405260" stroke-width="1.2"/>
+<text x="817" y="116" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="650" text-anchor="middle" fill="#f0f6fc">OPENAI</text>
+<text x="817" y="130" font-family="Arial,Helvetica,sans-serif" font-size="9" text-anchor="middle" fill="#9baaba">ANALYSIS</text>
+<rect x="882" y="96" width="103" height="47" rx="7" fill="#14212c" stroke="#405260" stroke-width="1.2"/>
+<text x="933" y="116" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="650" text-anchor="middle" fill="#f0f6fc">TELEGRAM</text>
+<text x="933" y="130" font-family="Arial,Helvetica,sans-serif" font-size="9" text-anchor="middle" fill="#9baaba">ASSISTANT</text>
+</svg>
