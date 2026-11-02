@@ -1,17 +1,14 @@
-
-
-<sub>some stuff</sub>
+<sub>personal projects</sub>
 
 ---
 
+<img src="./assets/apollo-light.svg#gh-light-mode-only" alt="Apollo — Hevy and Strava connected, with WHOOP, Apple Health, Fitbit and other integrations planned" width="100%">
+<img src="./assets/apollo-dark.svg#gh-dark-mode-only" alt="Apollo — Hevy and Strava connected, with WHOOP, Apple Health, Fitbit and other integrations planned" width="100%">
 
-<img src="./assets/soma-light.svg#gh-light-mode-only" alt="Soma — Hevy and Strava connected to Telegram through Supabase" width="100%">
-<img src="./assets/soma-dark.svg#gh-dark-mode-only" alt="Soma — Hevy and Strava connected to Telegram through Supabase" width="100%">
+**Apollo**
 
-**Soma**
+A personal health and performance assistant. Combines Hevy and Strava activities with contextual memory and analysis; expanding to wearables and other health data sources.
 
-Brings together workouts from Hevy, Strava and more. Keeps contextual memory and scheduled checks in Supabase, delivers updates and recommendations through chat.
-
-`TypeScript` &nbsp;·&nbsp; `Supabase` &nbsp;·&nbsp; `Chat`
+`TypeScript` &nbsp;·&nbsp; `Supabase` &nbsp;·&nbsp; `OpenAI` &nbsp;·&nbsp; `Telegram`
 
 <sub>Independent project · Private repository · In development</sub>
